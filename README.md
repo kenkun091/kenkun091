@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kenkun091
-- 👀 I’m interested in Python, Javascript and full stack Web 3 development
-- 🌱 I’m currently learning React, Typescript and Solidity!
-- 💞️ I’m passionate about web 3 and blockchain data utilization
+- 👀 I’m interested in full stack Web 3 development
+- 🌱 I’m currently learning Rust, Typescript and Solidity!
+- 💞️ I’m passionate about web 3 and blockchain utilization
 
 <!---
 kenkun091/kenkun091 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
